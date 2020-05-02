@@ -20,10 +20,10 @@
     "jquery": "^3.5.0",
     "bootstrap-sass": "^3.4.1",
     "breakpoint-sass": "^2.7.1",
-    "font-awesome": "4.7.0",
-    "sass-flex-mixin": "^1.0.3"
+    "sass-flex-mixin": "^1.0.3",
+    "font-awesome": "4.7.0"
   },
   "devDependencies": {
-    "font-awesome": "4.7.0"
+    "font-awesome": "^5.13.0"
   }
 }
